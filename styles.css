@@ -1,4 +1,27 @@
 body{
-    background-color: aqua;
+
     padding: 20px;
+
 }
+.js{
+background-color:#88E0EF;
+border-radius: 1%;
+padding: 1rem;
+}
+.btn{
+    background-color:#F8DF8B;
+    color: black;
+    padding: 1rem;
+    border-color: black;
+}
+#covi{
+    color: #125C13;
+}
+.table{
+    border-color: black;
+    border: 1px;
+}
+ #nav{
+     color: #483434;
+     
+ }
